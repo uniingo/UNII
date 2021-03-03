@@ -1,5 +1,1 @@
-UNII
-
-UNIINGO PROJECT IS ABOUT CREATING A TOKEN THAT IS OFFERED ON ETHERUM PLATFORM AND IS LINKED TO A SCRYPT COIN. WHILST THESE TWO DIGITAL ASSETS THE TOKEN AND CONIN ARE SEPRATE BUT TEHY PROVIDE FOR A WIDE RANGE OF POSSABILITIES FROM SECURITY AND PRIVACY TO ACCESS AND FLEXABLITIY THAT ETHERUM OFFERS.
-
-WE ARE IN THE PROSESS OF JOINING THESE DIGITAL ASSETS AND AS WE MOVE ALONG WE INTEND TO MAKE FULL USE OF BOTH ENVIRONMENT, ON THE ONE HAND AN COMPLETLY SEPRATE BLOCKCHAIN COIN AND ON THE OTHE HAND ALL THE FECILITY THAT SMART CONTRACT TOKENS BRING.
+UNII token is introducing first ever Crypto Smart Swap platform to reduce deficiency, delay and risk for the Crypto Currencies and its providers and users and increase its availability and efficiency not only in trade and finance but all environments that could benefit from the secure, available and global network that these technologies provide. 
